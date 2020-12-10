@@ -1,4 +1,6 @@
-import { initialCards } from "./mockdata/CardData";
+
+import React from "react";
+import { initialCards } from "../mockdata/CardData";
 
 const AppContext = React.createContext();
 
